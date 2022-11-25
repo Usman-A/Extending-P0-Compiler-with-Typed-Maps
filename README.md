@@ -7,10 +7,7 @@
 
 # High level explanation of our typed map implementation
 
-**Authors: Aleem Haq, Usman Asad, Muhammad Faisal Jaffer**
-
-**Computer Science 4TB3**, ***McMaster University***
-
+The following is a high-level overview of how our typed-map implementation will look like.
 ## Cuckoo Hashing
 
 - Uses 2 hash functions (Hash1, Hash2)
