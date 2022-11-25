@@ -1,4 +1,4 @@
-# Group 7 - Extending P0 compilers with typed Maps
+# Extending P0 compilers with typed Maps
 
 ## Authors:
 - **Usman Asad**
@@ -47,7 +47,7 @@ The main directory includes the following files/folders:
 
 
 
-The actual implementation and extension of the P0 compiler with typed Maps is implemented across the following notebooks in the **../group-7/Map** directory:
+The actual implementation and extension of the P0 compiler with typed Maps is implemented across the following notebooks in the [**./Map**](./Map/) directory:
 
 
 - [**ST.ipynb**](Map/ST.ipynb) - P0 Symbol Table (added support for Maps)
